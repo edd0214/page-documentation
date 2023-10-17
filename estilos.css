@@ -21,6 +21,7 @@ html{
   }
   
   #main-doc{
+    text-align: justify;
     position: absolute;
     margin-left: 310px;
     padding: 20px;
