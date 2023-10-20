@@ -13,12 +13,12 @@ html{
     display: block;
     margin: 8px;
   }
-  @media only screen and (max-width: 815px)
+  @media only screen and (max-width: 815px){
   #main-doc {
       position: relative;
       margin-left: 0px;
       margin-top: 270px;
-  }
+  }}
   
   #main-doc{
     text-align: justify;
@@ -68,7 +68,7 @@ html{
       border-radius: 15px;
   }
   
-  @media only screen and (max-width: 815px)
+  @media only screen and (max-width: 815px){
   #navbar {
       background-color: white;
       position: absolute;
@@ -80,7 +80,7 @@ html{
       border: none;
       z-index: 1;
       border-bottom: 2px solid;
-  }
+  }}
   
   #navbar {
       position: fixed;
@@ -100,11 +100,11 @@ html{
     font-size: 1.5em;  
   }
   
-  @media only screen and (max-width: 815px)
+  @media only screen and (max-width: 815px){
   #navbar ul {
       border: 1px solid;
       height: 207px;
-  }
+  }}
   
   #navbar ul {
       height: 88%;
